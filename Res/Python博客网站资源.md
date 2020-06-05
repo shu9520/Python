@@ -3,7 +3,7 @@
 
 * **本人编写的 Python 系列文章**
 
-    本草根编写的 Python 文章，里面有各种例子代码
+    编写的 Python 文章，里面有各种例子代码
 
     传送门： [Gitbook](https://www.readwithu.com/)，[github](https://github.com/TwoWater/Python)
 
@@ -36,7 +36,6 @@
 
 
 * **莫烦Python**
-
 
     传送门：[官方地址](https://morvanzhou.github.io/tutorials/python-basic/)
 
